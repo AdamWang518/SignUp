@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignUp</string>
+    <string name="signup">註冊</string>
+    <string name="loginhere">已經有帳號了嗎?點此登入</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="login">登入</string>
+    <string name="signuphere">還沒有帳號嗎?點此註冊</string>
+    <string name="Welcome">Welcome</string>
+</resources>
